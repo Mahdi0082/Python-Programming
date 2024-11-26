@@ -1,0 +1,8 @@
+X=[]
+i= 0
+while i<3:
+    Y=int(input("Enter a number: "))
+    X.append(Y)
+    i+=1
+Z=max(X)
+print(Z)
