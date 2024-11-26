@@ -1,0 +1,6 @@
+X = 4
+Y = 5
+Z=X
+X=5
+Y=Z
+print(X)
